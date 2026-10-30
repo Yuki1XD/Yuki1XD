@@ -1,4 +1,4 @@
-# Olá! Eu sou a Yuki 👋
+# Olá! Eu sou a Maria Sophia de Lima dos Santos 👋
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**.
 
