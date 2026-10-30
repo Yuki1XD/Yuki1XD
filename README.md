@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá! Eu sou a Yuki 👋
 
-<!--
-**Yuki1XD/Yuki1XD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**.
 
-Here are some ideas to get you started:
+Tenho interesse em **Ciência de Dados**, **desenvolvimento mobile** e **cibersegurança**. Gosto de aprender novas tecnologias, desenvolver projetos e aprimorar minhas habilidades por meio da prática.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias que estudei
+
+- **Linguagens:** JavaScript, TypeScript e C
+- **Desenvolvimento:** React e Node.js
+- **Banco de dados:** MySQL
+- **Ferramentas:** Git
+
+## 🎯 Áreas de interesse
+
+- 📊 Ciência de Dados (*Data Science*)
+- 📱 Desenvolvimento mobile
+- 🔐 Cibersegurança
+
+## 🌱 Atualmente
+
+Aprofundando meus conhecimentos em tecnologia e buscando aplicar o que aprendo em projetos práticos.
+
