@@ -6,7 +6,7 @@ Tenho interesse em **Ciência de Dados**, **desenvolvimento mobile** e **ciberse
 
 ## 🛠️ Tecnologias que estudei
 
-- **Linguagens:** JavaScript, TypeScript e C
+- **Linguagens:** JavaScript, TypeScript e Python
 - **Desenvolvimento:** React e Node.js
 - **Banco de dados:** MySQL
 - **Ferramentas:** Git
